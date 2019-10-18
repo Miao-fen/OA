@@ -1,0 +1,5 @@
+input{width:300px;height:35px;border:1px solid #cecece;border-radius:4px;padding-left:18px;}
+.err{color:red;font-size:12px;}
+.btn{width:300px;height:40px;border:none;border-radius:4px;background:#5696ff;outline:none;margin-top:20px;color:#fff;font-size:14px;}
+.login{width:300px;margin:auto;margin-top:50px;}
+.psd_input{margin-top:20px;}

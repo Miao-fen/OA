@@ -1,0 +1,4 @@
+*{margin:0;padding:0;}
+.nav_left{height:1000px;background: rgb(0,21,41);}
+.content{background: rgb(241,243,245);height:1000px;}
+.panel{height:800px;padding:0 20px;overflow: auto;}
